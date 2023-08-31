@@ -1,29 +1,63 @@
-<h1 align="center">Olá 👋, Eu sou o Clayton Oliveira</h1>
-<h3 align="center">Analista de Dados com expertise em integração de Scripts em Python no Power BI</h3>
+  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+  
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+  
+  - 🔭 I’m currently working as a Software Developer in Bengaluru, India
+  - 🌱 I’m currently learning Machine Learning and Big Data
+  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
+  - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  
+  #### 📫 How to reach me:
+  
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
+  #### 👨🏻‍💻 Languages and Tools <br />
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+  
+  [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
+  ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
 
-- 🔭 Estou procurando uma oportunidade no Mercado de Trabalho [Me conheça melhor através do Meu Linked'in](https://www.linkedin.com/in/clayton-fausto-oliveira-108787143/)
+  ```
+  # ♟︎ Chess.com Ratings Chart #
+  
+  Blitz Rating
+ 1673.00  ┼╮╭╮
+ 1662.38  ┤╰╯╰╮
+ 1651.75  ┤   ╰─╮
+ 1641.12  ┤     ╰─╮
+ 1630.50  ┤       ╰╮     ╭───╮    ╭╮                             ╭╮
+ 1619.88  ┤        ╰─╮  ╭╯   ╰╮╭╮╭╯╰─╮    ╭╮             ╭──╮   ╭╯╰───╮
+ 1609.25  ┤          ╰──╯     ╰╯╰╯   ╰╮╭──╯╰─╮          ╭╯  ╰╮╭─╯     ╰╮╭───╮
+ 1598.62  ┤                           ╰╯     ╰──╮      ╭╯    ╰╯        ╰╯   ╰─╮    ╭╮    ╭╮
+ 1588.00  ┤                                     ╰╮╭╮ ╭─╯                      ╰╮╭──╯╰╮  ╭╯╰─╮
+ 1577.38  ┤                                      ╰╯╰─╯                         ╰╯    ╰──╯   ╰─╮
+ 1566.75  ┤                                                                                   ╰╮╭╮
+ 1556.12  ┤                                                                                    ╰╯╰───╮
+ 1545.50  ┤                                                                                          ╰─╮
+ 1534.88  ┤                                                                                            ╰╮╭╮
+ 1524.25  ┤                                                                                             ╰╯╰╮
+ 1513.62  ┤                                                                                                ╰──
+ 1503.00  ┤
 
-- 🌱 Atualmente estou apreedendo **Fundamentos de AWS**
-
-- 📝 Estou construindo meu site [liveandasail.com.br](liveandasail.com.br)
-
-- 💬 Me pergunte sobre **Python, Power BI, Excel, Graficos, SQL e Dashboard's**
-
-- 📫 Você pode me contatar através do e-mail **clayton.oliveira1@outlook.com**
-
-- 📄 Minhas experiencias estão disponiveis no Linked'in [https://www.linkedin.com/in/clayton-fausto-oliveira-108787143/](https://www.linkedin.com/in/clayton-fausto-oliveira-108787143/)
-
-- ⚡ Estou em transição de carreira **Em busca de uma nova recolocação de trabalho dentro da minha area, iniciei minha transição a partir do meu curso de graduação na Faculdade Impacta em Analise e Desenvolvimento de Sistemas, com foco em fazer futuramente uma pós em Engenharia de dados, acredito que a base em desenvolvimento possa contribuir com o meu objetivo de construir um processo robusto em engenharia de dados que todos possam facilmente usar, meu maior sonho é que todas as pessoas consigam mexer em ferramentas que otimizem seu tempo seja qual for a sua necessidade.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/clayton-fausto-oliveira-108787143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/clayton-fausto-oliveira-108787143/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100084745527321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100084745527321" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/claytonrievilo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/claytonrievilo/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehoclayton&show_icons=true&locale=en&layout=compact" alt="ehoclayton" /></p>
-
+Chart last updated - Sun Aug 27 21:34:33 IST 2023  
+  ```
+  
