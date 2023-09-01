@@ -1,11 +1,11 @@
   ### Olá Mundo!  <img src="https://github.com/ehoclayton/ehoclayton/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=ehoclayton&label=Profile%20Visits&color=blue&style=for-the-badge)
   
-  - 🔭 Estou procurando uma nova oportunidade para atuar com Analise de Dados em Python,
+  - 🔭 Trabalho com Analise de Dados em Python
   - 🌱 Estou aprendendo Machine Learning e Fundamentos de AWS
   - 💬 Pergunte-me sobre os Python, Power BI, Excel, SQL, Graficos e Dashboard's
   - 😄 Pronomes: Ele / Dele
-  - ⚡ Curiosidade: Estou em transição de carreira devido minha Lógica bem apurada consigo aprender novos conhecimentos facilmente, amo tratar dados, sinto que é um hobby
+  - ⚡ Curiosidade: Invisto na bolsa de valores e utilizo Analise Fundamentada para insights e tomadas de decisões
      
   #### <code><img height="30" src="https://static.vecteezy.com/system/resources/previews/009/400/893/original/tool-clipart-design-illustration-free-png.png"></code> Linguagens e Ferramentas <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -18,7 +18,7 @@
   <code><img height="40" src="https://logospng.org/download/sap/sap-2048.png"></code>
    <code><img height="40" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo.png"></code>
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=ehoclayton&show_icons=true&theme=highcontrast )](https://github-readme-stats.vercel.app/api?username=ehoclayton&show_icons=true&theme=highcontrast )&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/ehoclayton/ehoclayton/blob/master/assets/saved.gif" width="195">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=ehoclayton&show_icons=true&theme=highcontrast )](https://github-readme-stats.vercel.app/api?username=ehoclayton&show_icons=true&theme=highcontrast )
 
  #### <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5849/5849073.png"></code> Como chegar até mim:
   <br>
